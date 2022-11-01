@@ -1,1 +1,1 @@
-echo "lab"
+printf "lab"
